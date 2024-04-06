@@ -1,4 +1,4 @@
-# Cog: Containers for machine learning
+# Cog: Containers for machine learning 
 
 Cog is an open-source tool that lets you package machine learning models in a standard, production-ready container.
 
